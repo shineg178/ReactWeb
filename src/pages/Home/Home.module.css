@@ -1,0 +1,14 @@
+.homeContent {
+  padding: 2rem;
+  text-align: center;
+}
+
+.homeContent h1 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.homeContent p {
+  color: #666;
+  line-height: 1.6;
+}
